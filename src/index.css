@@ -1,0 +1,17 @@
+.header{
+  background-color: blue;
+  color: #fff;
+  height: 100px;
+}
+
+.body a{
+  color: black;
+  font-weight: 500;
+  font-size: 100px;
+  font-family: 'Courier New', Courier, monospace;
+  text-decoration: none;
+}
+
+.body:hover{
+  background-color: yellow;
+}
