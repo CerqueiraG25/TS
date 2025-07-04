@@ -1,7 +1,20 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
 .header{
-  background-color: blue;
+  background-color: rgb(122, 122, 255);
   color: #fff;
   height: 100px;
+  padding: 25px;
+}
+
+.body{
+  height: 100vh;
+  text-align: center;
+  padding-top: 150px;
 }
 
 .body a{
@@ -12,6 +25,14 @@
   text-decoration: none;
 }
 
-.body:hover{
-  background-color: yellow;
+.footer{
+  background-color: blueviolet;
+  height: 150px;
+  padding: 50px;
+
+}
+
+.footer h2{
+  text-align: center;
+  
 }
